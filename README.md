@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew Boho. I am currently working as a Senior Mechanical Engineer.
 - 👀 I’m interested in learning to add programming to my skillset and integrate it into my projects.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning React & Redux.
 - 💞️ I’m looking to collaborate on Bitcoin micropayment apps.
 - 📫 Reach me at aboho@proton.me
 
